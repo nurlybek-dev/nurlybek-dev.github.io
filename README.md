@@ -8,6 +8,7 @@ Web projects:
 - [JS TODO App](https://nurlybek-dev.github.io/js-todo/)
 - [URL Shortener](http://funcut.ru/)
 - [Flask blog](https://nurlybek-simple-blog.herokuapp.com/admin/posts/) - [Git](https://github.com/nurlybek-dev/flask-blog)
+- [Django shop](https://nur-ds.herokuapp.com/) - [Git](https://github.com/nurlybek-dev/django-shop)
 
 Python projects:
 - [Visual sorting](https://github.com/nurlybek-dev/python-visual-sorting)
