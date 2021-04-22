@@ -9,6 +9,7 @@ Web projects:
 - [URL Shortener](http://funcut.ru/)
 - [Flask blog](https://nurlybek-simple-blog.herokuapp.com/) - [Git](https://github.com/nurlybek-dev/flask-blog)
 - [Django shop](https://nur-ds.herokuapp.com/) - [Git](https://github.com/nurlybek-dev/django-shop)
+- [Budget keeper](https://nur-budget-keeper.herokuapp.com/)
 
 Python projects:
 - [Visual sorting](https://github.com/nurlybek-dev/python-visual-sorting)
