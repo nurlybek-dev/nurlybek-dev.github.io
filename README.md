@@ -17,3 +17,4 @@ Python projects:
 - [Blackjack-GUI](https://github.com/nurlybek-dev/blackjack-gui)
 - [Blackjack-CLI](https://github.com/nurlybek-dev/blackjack-cli)
 - [Reversi game](https://github.com/nurlybek-dev/reversi-game)
+- [Music player](https://github.com/nurlybek-dev/music-player)
